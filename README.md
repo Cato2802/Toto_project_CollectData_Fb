@@ -1,2 +1,2 @@
 # Toto_project_CollectData_Fb
-I developed a Python script to extract comments from a specific Facebook post using the Graph API. 
+I developed a Python script to extract comments from a specific Facebook post using the Graph API. utilized the 'requests' library to make API calls and retrieved comments associated with the provided page_id and post_id. The access_token was generated from the Facebook Developer Tools. The extracted data (name, time, and message) was then stored in an Excel file using the Pandas library. This automated data extraction process allows users to efficiently analyze and manage comments associated with their Facebook posts. 
